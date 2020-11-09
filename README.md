@@ -1,4 +1,4 @@
-# Chrome Headless Docker for Raspberri Pi
+# Chrome Headless Docker for Raspberry Pi
 
 
 ## Run it
